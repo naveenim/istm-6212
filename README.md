@@ -1,2 +1,2 @@
 # istm-6212
-Data Mgmt course
+Data Mgmt course - shell, SQL + some Spark
